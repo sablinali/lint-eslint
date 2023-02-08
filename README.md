@@ -1,7 +1,8 @@
 ---
 description: >-
-  This is a presentation I gave in my bootcamp to install ESlint and understand
-  how to configurate its rules. I also included the installment of Prettier.
+  This is a presentation I gave in my bootcamp class to learn how to use the
+  linter ESlint and configure its rules. I also included the installation of
+  Prettier, a plugin that formats your codes.
 ---
 
 # ✨ LINT-ESLint
