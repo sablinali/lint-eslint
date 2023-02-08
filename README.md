@@ -3,6 +3,8 @@ description: >-
   This is a presentation I gave in my bootcamp class to learn how to use the
   linter ESlint and configure its rules. I also included the installation of
   Prettier, a plugin that formats your codes.
+cover: .gitbook/assets/pink-galaxy.jpeg
+coverY: 0
 ---
 
 # ✨ LINT-ESLint
